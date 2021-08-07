@@ -1,0 +1,20 @@
+body {
+<!-- body will be background color dcedc1 with dotted bor-top-style and bor background at 008 b8b, 7 px bor-wid and 4 % width-- > background-color: #BCBAB8;
+}
+
+h1  {
+    color: #66BFBF;
+}
+
+h3  {
+    color: #66BFBF;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #008b8b;
+    border-width: 7px;
+    width: 4%;
+}
+
